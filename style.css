@@ -1,0 +1,92 @@
+div
+{
+    /* Div Properties*/
+    background: #74AFAD; /* backgroudnd color*/
+    width: 500px;
+    /* Text Properties*/
+     color: white;
+     margin: 20px;
+     padding: 20px;
+     line-height: 30px;/* or you can use 200% or em */
+     text-align: left; /* Align of the text*/ 
+    letter-spacing: normal; /* space between the words*/
+    direction:ltr; /* Text Direction*/
+    text-decoration:underline;
+    top: 100px;
+    
+}
+div span{
+    color:red; 
+}
+span.old
+{
+    text-decoration: line-through;
+    color: red;
+}
+span.new{
+    color: blue;
+}
+div.div1
+{
+    background: #ECECEA;
+    letter-spacing: normal;
+    width: 500px;
+    color:red;
+    direction: ltr;
+
+}
+
+p
+{
+    color: #F00
+}
+p.p1
+{
+    color:blue;
+    
+    
+}
+p.p2
+{
+   color: green 
+}
+body{
+    background-color:#CACFD2;
+
+}
+a:hover{
+   line-height: 30px;
+   color: red;
+   font-weight: bold;
+   
+}
+a:active{
+    color:green;
+    
+}
+span.cap
+{
+    text-transform: capitalize;
+    color: #C70039 ;
+    letter-spacing: -1px;
+}
+span.upper
+{
+    text-transform: uppercase;
+    color: #7933ff;
+    letter-spacing: 5px;
+
+}
+ul{
+    list-style-type: circle;
+    color: blue;
+    /*position: fixed;*/
+    padding: 20px;
+}
+ul li
+{
+    border: 1px solid #DDD;
+    padding: 10px;;
+    
+    
+}

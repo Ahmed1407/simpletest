@@ -1,0 +1,15 @@
+html            ok 
+css               ok
+javaScript   
+php        
+mySql 
+noSql
+ ---------------- -------------------------                -------------------------------
+python
+c 
+java 
+RHCE AND    OSCP
+luinx 
+ethical hacking 
+   
+
